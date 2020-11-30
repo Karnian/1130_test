@@ -11,3 +11,7 @@
 ![reserve_test_04](https://user-images.githubusercontent.com/28075892/100575648-e130b300-331f-11eb-8bd8-c1a664c26ab2.JPG)
 
 ![reserve_test_05](https://user-images.githubusercontent.com/28075892/100575651-e68dfd80-331f-11eb-9cc3-bcfdf15b0dc0.JPG)
+
+![kucel_get_all](https://user-images.githubusercontent.com/28075892/100575973-82b80480-3320-11eb-8859-f23bf1f1db82.JPG)
+
+![gateway](https://user-images.githubusercontent.com/28075892/100576000-8ea3c680-3320-11eb-8891-33c192aa0d0f.JPG)
