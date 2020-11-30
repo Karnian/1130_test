@@ -36,3 +36,6 @@
 ![hpa_1](https://user-images.githubusercontent.com/28075892/100586830-172b6280-3333-11eb-874d-cb2c0e23bdac.JPG)
 
 ![hpa_2](https://user-images.githubusercontent.com/28075892/100586835-18f52600-3333-11eb-8000-9d8357793117.JPG)
+
+## Poly Glot
+![poly_glot](https://user-images.githubusercontent.com/28075892/100587243-a9336b00-3333-11eb-80dc-53c7a4aafcdc.JPG)
